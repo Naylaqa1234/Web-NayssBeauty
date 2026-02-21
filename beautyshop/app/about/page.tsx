@@ -12,28 +12,28 @@ export const dynamic = "force-static";
 
 const teamMembers = [
   {
-    name: "Amara Sutrisno",
+    name: "Nayla Qurrota Aini",
     role: "Founder & CEO",
     avatar: "A",
     bio: "Dermatologist berpengalaman 10 tahun yang mendirikan NayssBeauty dengan misi membuat produk kecantikan premium lebih terjangkau.",
     gradient: "from-pink-400 to-rose-500",
   },
   {
-    name: "Bella Maharani",
+    name: "M Fadil Ramdani",
     role: "Head of R&D",
     avatar: "B",
     bio: "Ahli kosmetik dengan latar belakang kimia farmasi. Bertanggung jawab atas inovasi formula produk Lumière.",
     gradient: "from-fuchsia-400 to-pink-500",
   },
   {
-    name: "Citra Wulandari",
+    name: "Arkan Imran Alfaruq",
     role: "Creative Director",
     avatar: "C",
     bio: "Desainer berbakat yang menciptakan identitas visual Lumière yang ikonik dan estetik di setiap produk.",
     gradient: "from-rose-400 to-pink-400",
   },
   {
-    name: "Dinda Pramesti",
+    name: "Heni Setianingsih",
     role: "Beauty Consultant",
     avatar: "D",
     bio: "MUA profesional dengan 8 tahun pengalaman. Memimpin tim konsultan kecantikan Lumière untuk pelayanan pelanggan.",

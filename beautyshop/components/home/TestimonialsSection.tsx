@@ -4,20 +4,20 @@ import { Star, ChevronLeft, ChevronRight, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Anastasia Putri",
+    name: "Nayla Qurrota Aini",
     role: "Beauty Enthusiast",
     avatar: "A",
     rating: 5,
-    text: "Produk dari Lumière benar-benar mengubah rutinitas skincare saya! Kulit terasa lebih lembap dan cerah dalam 2 minggu. Highly recommended untuk semua yang ingin glowing!",
+    text: "Produk dari NayssBeauty benar-benar mengubah rutinitas skincare saya! Kulit terasa lebih lembap dan cerah dalam 2 minggu. Highly recommended untuk semua yang ingin glowing!",
     product: "Hydra Glow Serum",
     gradient: "from-pink-400 to-rose-500",
   },
   {
-    name: "Kirana Dewi",
+    name: "Rayna Nayla Fadilah",
     role: "Makeup Artist",
     avatar: "K",
     rating: 5,
-    text: "Sebagai MUA profesional, saya sangat selektif dengan produk yang saya rekomendasikan ke klien. Lumière selalu jadi pilihan utama — kualitas premium dengan harga yang reasonable!",
+    text: "Sebagai MUA profesional, saya sangat selektif dengan produk yang saya rekomendasikan ke klien. NayssBeauty selalu jadi pilihan utama — kualitas premium dengan harga yang reasonable!",
     product: "Velvet Matte Foundation",
     gradient: "from-fuchsia-400 to-pink-500",
   },
@@ -26,7 +26,7 @@ const testimonials = [
     role: "Skincare Addict",
     avatar: "S",
     rating: 5,
-    text: "Pengiriman super cepat dan packaging-nya cantik banget! Produknya original terjamin dan hasilnya sesuai ekspektasi. Sudah jadi pelanggan setia Lumière selama 2 tahun!",
+    text: "Pengiriman super cepat dan packaging-nya cantik banget! Produknya original terjamin dan hasilnya sesuai ekspektasi. Sudah jadi pelanggan setia NayssBeauty selama 2 tahun!",
     product: "Rose Gold Eye Palette",
     gradient: "from-rose-400 to-pink-400",
   },
@@ -35,7 +35,7 @@ const testimonials = [
     role: "Influencer & Beauty Blogger",
     avatar: "M",
     rating: 5,
-    text: "Lumière adalah brand favorit yang selalu saya rekomendasikan di channel saya. Customer service-nya responsif dan produknya selalu konsisten bagus. Love everything!",
+    text: "NayssBeauty adalah brand favorit yang selalu saya rekomendasikan di channel saya. Customer service-nya responsif dan produknya selalu konsisten bagus. Love everything!",
     product: "24H Setting Powder",
     gradient: "from-amber-400 to-rose-400",
   },
@@ -88,7 +88,7 @@ export default function TestimonialsSection() {
           </span>
           <h2 className="font-display font-bold text-4xl sm:text-5xl text-gray-800 dark:text-rose-50 mt-2">
             Kata Mereka tentang{" "}
-            <span className="gradient-text">Lumière</span>
+            <span className="gradient-text">NayssBeauty</span>
           </h2>
         </div>
 
