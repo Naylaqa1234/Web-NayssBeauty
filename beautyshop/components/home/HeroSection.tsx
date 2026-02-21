@@ -96,7 +96,7 @@ export default function HeroSection() {
         <div className="inline-flex items-center gap-2 bg-white/70 dark:bg-rose-900/30 backdrop-blur-sm border border-pink-200 dark:border-rose-800/50 rounded-full px-4 py-1.5 mb-8 animate-slide-up">
           <span className="w-2 h-2 bg-pink-400 rounded-full animate-ping" />
           <span className="text-sm text-pink-600 dark:text-pink-300 font-medium">
-            🎀 Koleksi Terbaru 2024 Telah Hadir
+            🎀 Koleksi Terbaru 2026 Telah Hadir
           </span>
         </div>
 
